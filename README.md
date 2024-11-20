@@ -20,12 +20,12 @@ Users should be able to:
 
 ### Screenshot
 
-![TODO](./public/assets/images/screenshot.png)
+![](./public/assets/images/screenshot.png)
 
 ### Links
 
 - Solution URL: [GitHub](https://github.com/navalBhagat/blog-preview-card-fe-mentor)
-- Live Site URL: [Vercel - TODO](https://your-live-site-url.com)
+- Live Site URL: [Vercel](https://blog-preview-card-fe-mentor.vercel.app/)
 
 ## Author
 
